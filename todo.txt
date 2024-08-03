@@ -1,0 +1,31 @@
+Symbol: 🔴🟠🟡🟢
+
+TASK:
+[🟢] Register a user
+[🟢] Login a user
+[🟢] Who am I
+[🟢] Refresh the token
+[🟢] Logout the user
+[🟢] Add new product
+[🟢] Update a product
+[🟢] Get all products
+[🟢] Get single product
+[🟢] Delete a product
+
+Base url:
+http://localhost:3000/api/v1
+
+Api end point:
+
+userRegister :- /user/register
+
+response structure:
+{
+  status: "Success"
+  message: "Login Success full"
+  data: {
+    accessToken: "uuewwuh2562gc6ee6eddhdddjj"
+  }
+}
+
+ 
